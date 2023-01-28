@@ -30,10 +30,10 @@ function About({}: Props) {
         </h4>
         <p className="text-base">
           I am a pre-final year student of Electrical Engineering at the
-          National Institute of Technology, Silchar. I have worked as a frontend
-          Developer for various teams, fest, and Startup for the past year.
-          Besides this, I also have experience working as a technical support
-          member and organizing events and workshops. Currently, I have been
+          National Institute of Technology Silchar. I have worked as a frontend
+          Developer for various teams fest and Startup for the past year.
+          Besides this I also have experience working as a technical support
+          member and organizing events and workshops. Currently I have been
           working as a{" "}
           <span className="underline decoration-[#f7ab0a]/50">
             technical Head

@@ -54,7 +54,7 @@ function ExperienceCard({}: Props) {
               />
             </div>
             <p className="uppercase py-5 text-gray-300">
-              Started work JULY 2022 - Continue
+              Started work JULY 2022  Continue
             </p>
           </div>
         </div>
@@ -69,7 +69,7 @@ function ExperienceCard({}: Props) {
             current version of Ecell Website
           </li>
           <li>
-            Organizing head of one the events of Ecell's Module in Technical
+            Organizing head of one the events of Ecell s Module in Technical
             Fest of NIT Silchar
           </li>
         </ul>

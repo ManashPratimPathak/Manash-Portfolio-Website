@@ -34,7 +34,7 @@ function Projects({}: Props) {
                 {" "}
                 <span className="underline decoration-[#f7ab0a]/50"> Case study {i + 1} 0f {projects.length}: UPS clone</span>
               </h4>
-              <p className="text-lg text-center md:text-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type</p>
+              <p className="text-lg text-center md:text-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry  standard dummy text ever since the 1500s when an unknown printer took a galley of type</p>
             </div>
           </div>
         ))}
